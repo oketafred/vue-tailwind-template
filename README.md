@@ -1,4 +1,4 @@
-# vue_tailwindcss_boilerplate
+# Vue Tailwind Template
 
 ## Project setup
 ```

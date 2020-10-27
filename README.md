@@ -1,4 +1,4 @@
-# Vue Tailwind Template
+# Vue 3 & Tailwind Template
 
 ## Project setup
 ```
